@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uwuboiti.github.io/EyD/sitemap_index.txt
+Sitemap: https://uwuboiti.github.io/XSU/sitemap_index.txt
+Sitemap: https://uwuboiti.github.io/lAr/sitemap_index.txt
+Sitemap: https://uwuboiti.github.io/qEv/sitemap_index.txt
